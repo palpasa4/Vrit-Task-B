@@ -38,7 +38,7 @@ npm start<br>
 - React, React DnD (Drag and Drop), JavaScript (ES6+ features), CSS, Conditional Rendering and State Management.
 
 #### Rationales:
-- React: 
+- React: React is a JavaScript library that simplifies building interactive and dynamic user interfaces.
 - React DnD: A powerful library that simplifies drag-and-drop functionality in React
 - JavaScript (ES6+ features) :Modern JavaScript syntax (e.g., arrow functions, destructuring, spread operator)
 - CSS: Used for styling the components and layout of the Kanban board.

@@ -5,7 +5,7 @@
    First, you need to install Node.js. Node.js is a JavaScript runtime used to build and run React apps.
 - Download and install Node.js from the link: https://nodejs.org/en/download .
 - During installation, npm (Node Package Manager) will be installed automatically. npm is used to install libraries and dependencies for your React project.
-- To check if Node.js and npm were installed correctly, run these commands in your terminal:
+- To check if Node.js and npm were installed correctly, run these commands in your terminal:<br>
 node -v
 npm -v
 

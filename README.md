@@ -12,26 +12,26 @@ npm -v
 2. Create a React Project:<br>
 - To create a new React project, use the following command in your terminal:<br>
 npx create-react-app kanban-board-react<br>
-This will generate a new folder named kanban-board-react with all the necessary files for a React app.
+- This will generate a new folder named kanban-board-react with all the necessary files for a React app.
 
 3. Navigate to the Project Directory:<br>
-Change to the newly created project directory:<br>
+- Change to the newly created project directory:<br>
 cd kanban-board-react
 
 5. Clone the Repository Files:<br>
-Clone the Kanban board files from your GitHub repository:<br>
+- Clone the Kanban board files from your GitHub repository:<br>
 bash<br>
 git clone https://github.com/palpasa4/Vrit-Task-B.git .<br>
-This will bring in the necessary Kanban board files into your project.
+- This will bring in the necessary Kanban board files into your project.
 
 6. Install Project Dependencies:<br>
-Once the files are cloned, install the necessary dependencies such as react-beautiful-dnd using terminal command:<br>
+- Once the files are cloned, install the necessary dependencies such as react-beautiful-dnd using terminal command:<br>
 npm install react-beautiful-dnd
 
 7. Start the Development Server:<br>
-After installing the dependencies, start the development server to view the Kanban board in your browser using the terminal command:<br>
+- After installing the dependencies, start the development server to view the Kanban board in your browser using the terminal command:<br>
 npm start<br>
-This will open the application at http://localhost:3000 in your default browser.
+- This will open the application at http://localhost:3000 in your default browser.
 
 ### Technology Choices and Rationales:
 #### Technology and tools used:

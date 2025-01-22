@@ -1,36 +1,36 @@
 # Vrit Task B
 
 ### Set up instructions:
-1. Install Node.js:
-   First, you need to install Node.js. Node.js is a JavaScript runtime used to build and run React apps.
+1. Install Node.js:<br>
+- First, you need to install Node.js. Node.js is a JavaScript runtime used to build and run React apps.
 - Download and install Node.js from the link: https://nodejs.org/en/download .
 - During installation, npm (Node Package Manager) will be installed automatically. npm is used to install libraries and dependencies for your React project.
 - To check if Node.js and npm were installed correctly, run these commands in your terminal:<br>
-node -v
+node -v<br>
 npm -v
 
-2. Create a React Project:
-- To create a new React project, use the following command in your terminal:
-npx create-react-app kanban-board-react
+2. Create a React Project:<br>
+- To create a new React project, use the following command in your terminal:<br>
+npx create-react-app kanban-board-react<br>
 This will generate a new folder named kanban-board-react with all the necessary files for a React app.
 
-3. Navigate to the Project Directory:
-Change to the newly created project directory:
+3. Navigate to the Project Directory:<br>
+Change to the newly created project directory:<br>
 cd kanban-board-react
 
-5. Clone the Repository Files:
-Clone the Kanban board files from your GitHub repository:
-bash
-git clone https://github.com/palpasa4/Vrit-Task-B.git .
+5. Clone the Repository Files:<br>
+Clone the Kanban board files from your GitHub repository:<br>
+bash<br>
+git clone https://github.com/palpasa4/Vrit-Task-B.git .<br>
 This will bring in the necessary Kanban board files into your project.
 
-6. Install Project Dependencies:
-Once the files are cloned, install the necessary dependencies such as react-beautiful-dnd using terminal command:
+6. Install Project Dependencies:<br>
+Once the files are cloned, install the necessary dependencies such as react-beautiful-dnd using terminal command:<br>
 npm install react-beautiful-dnd
 
-7. Start the Development Server:
-After installing the dependencies, start the development server to view the Kanban board in your browser using the terminal command:
-npm start
+7. Start the Development Server:<br>
+After installing the dependencies, start the development server to view the Kanban board in your browser using the terminal command:<br>
+npm start<br>
 This will open the application at http://localhost:3000 in your default browser.
 
 ### Technology Choices and Rationales:

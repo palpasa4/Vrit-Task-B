@@ -33,11 +33,11 @@ After installing the dependencies, start the development server to view the Kanb
 npm start
 This will open the application at http://localhost:3000 in your default browser.
 
-# Technology Choices and Rationales:
-### Technology and tools used:
+### Technology Choices and Rationales:
+#### Technology and tools used:
 - React, React DnD (Drag and Drop), JavaScript (ES6+ features), CSS, Conditional Rendering and State Management.
 
-### Rationales:
+#### Rationales:
 - React: 
 - React DnD: A powerful library that simplifies drag-and-drop functionality in React
 - JavaScript (ES6+ features) :Modern JavaScript syntax (e.g., arrow functions, destructuring, spread operator)
@@ -45,14 +45,14 @@ This will open the application at http://localhost:3000 in your default browser.
 - Conditional Rendering: Allows the UI to change dynamically based on certain conditions (e.g., if there's no destination in a drag-and-drop action)
 - State Management: React's useState hook allows for efficient tracking and updating of the application state (like the tasks in columns).
 
-# Known Limitations:
+### Known Limitations:
 - It only provides the basiclayout of the Kanban Board, listing out the tasks into categories.
 - Basic and additional features are yet to be implemented such as Drag and drop feature, using TypeScript for strict mode and so on.
   
-# Future improvements:
+### Future improvements:
 - To assure that the basic functionalities work well.
 - To add the additional features like Add column creation/deletion, implement card search and filtering, etc.
 
-# Basic layout of the Kanban Board:
+### Basic layout of the Kanban Board:
 ![kanban](https://github.com/user-attachments/assets/2b1d4f55-6c4a-4c35-897e-b112c379d7fd)
 
